@@ -13,5 +13,4 @@ Shell Scripting Topics
 8. Exit Status
 9. Quotes
 10.Redirector
-11.
 ```
