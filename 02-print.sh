@@ -14,4 +14,4 @@ echo helloworld
 
 # \e[0m  -> to disable color, Zero code is going to reset the color, meaning if we enable color for sure we need to disable it, otherwise color will continue on scrren.
 
-echo -e "\e[35m Hello Shell Scripting \e[0m"
+echo -e "\e[35mHello Shell Scripting \e[0m"
